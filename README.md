@@ -118,7 +118,7 @@ Contributions are 💖! Fork the repo, create a feature branch, and submit a PR.
 
 ## 👤 Author
 
-**Samyuktha Sasikumar** ([samyukthasasikumar07](https://github.com/)samyukthasasikumar07)
+**Samyuktha Sasikumar** ([samyukthacs07](https://github.com/)samyukthacs07)
 ✉️ [samyukthasasikumar0061@gmail.com](samyukthasasikumar0061@gmail.com)
 
 *Thank you for checking out the project!*
