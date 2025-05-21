@@ -61,7 +61,6 @@ python recommender.py --input Dataset.csv --top 5
 ```plaintext
 ├── Dataset.csv            # Raw restaurant data (9,551 entries)
 ├── Task2.ipynb            # Interactive Jupyter walkthrough
-├── recommender.py         # CLI-friendly script
 └── README.md              # This file
 ```
 
