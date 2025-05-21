@@ -113,17 +113,12 @@ pip install pandas numpy scikit-learn
 
 Contributions are 💖! Fork the repo, create a feature branch, and submit a PR.
 
----
-
-## 📜 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
 ## 👤 Author
 
-**Samyuktha Sasikumar** ([your-username](https://github.com/your-username))
+**Samyuktha Sasikumar** ([samyukthasasikumar07](https://github.com/)samyukthasasikumar07)
 ✉️ [samyukthasasikumar0061@gmail.com](samyukthasasikumar0061@gmail.com)
 
 *Thank you for checking out the project!*
